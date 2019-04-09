@@ -25,7 +25,7 @@ public class AppGNS {
 		
 //		Joueur jr2 = new Joueur() ;
 //		jr2.setNom( "Owen" ) ;
-//		jr2.setPays( "rus" ) ;
+//		jr2.setPays( "be" ) ;
 //		jr2.setNbVictoires( -33 ) ;
 //		
 //		System.out.println( "Joueur enregistré : " + jr2 ) ;
